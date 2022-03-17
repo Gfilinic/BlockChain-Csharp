@@ -1,2 +1,12 @@
 # BlockChain-C#
 BlockChain implementacija za školski kurikulum, jednostavna konzolna aplikacija koja prikazuje trenutni i prošli hash.
+
+
+# Korisni linkovi #
+[IBM Blockchain](https://www.ibm.com/topics/what-is-blockchain)
+
+[YouTube guide za kod](https://www.youtube.com/watch?v=n-Rwrxos8G0)
+
+[BlockChain usporedba - opširni blog](https://blockgeeks.com/guides/what-is-blockchain-technology/)
+
+[Kako mining ride](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/)
