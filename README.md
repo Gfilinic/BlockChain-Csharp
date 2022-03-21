@@ -10,6 +10,9 @@ BlockChain implementacija za školski kurikulum, jednostavna konzolna aplikacija
 [BlockChain usporedba - opširni blog](https://blockgeeks.com/guides/what-is-blockchain-technology/)
 
 [Kako mining ride](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/)
+
 [Blockcahin - mining](https://www.youtube.com/watch?v=yubzJw0uiE4&ab_channel=Simplilearn)
+
 [Blockchain - general](https://www.youtube.com/watch?v=SSo_EIwHSd4&ab_channel=SimplyExplained)
+
 [How Bitcoin works](https://www.youtube.com/watch?v=bBC-nXj3Ng4&ab_channel=3Blue1Brown)
