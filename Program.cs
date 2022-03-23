@@ -30,7 +30,6 @@ namespace BlockChain
             if (difficulty == null) throw new ArgumentNullException(nameof(difficulty));
 
             byte[] hash = new byte[0];
-            int d = difficulty.Length;
             while (!hash.Take(2).SequenceEqual(difficulty))
             {
                 block.Nonce++;
